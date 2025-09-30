@@ -129,6 +129,8 @@ Include a **GIF or screenshot** showing:
 * Globe rotation.
 * Filtering by magnitude.
 * Earthquake details in tooltips.
+* <img width="2564" height="1326" alt="image" src="https://github.com/user-attachments/assets/c4980db0-03d3-40fa-9bb9-bfb520d8873a" />
+
 
 ---
 
